@@ -1,0 +1,49 @@
+h1 {
+  font-family: helvetica;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-bottom: -50px;
+}
+h2 {
+  font-family: helvetica;
+  text-align: center;
+}
+tr{
+	background:#f2f2f2;
+}
+table{
+	margin-left:150px;
+}
+td{
+	text-align: center;
+	width: 200px;
+	height:30px;
+}
+th{
+	width: 100px;
+}
+.sort{
+	margin-left:1050px;
+}
+.sort2{
+	margin-left:850px;
+}
+.cari{
+	margin-top:50px;
+	margin-left:150px;
+	margin-bottom:10px;
+}
+.btn{
+	background:#f2f2f2;
+	width: 250px;
+	height :25px;
+	margin-left:150px;
+}
+.btn2{
+	background:#f2f2f2;
+	width: 250px;
+	height :25px;
+	margin-left:150px;
+	margin-bottom:10px;
+}
