@@ -6,7 +6,7 @@ $genre = $_POST['genre'];
 $link = $_POST['link'];
 $input = mysqli_query($koneksi, "INSERT INTO lagu (judul, penyanyi, genre, link) VALUES('$judul','$penyanyi','$genre','$link')");
 if($input){
-header("location:lagu.php");
+header("location:index2.php");
 }
 else{
 header("location:check.php");

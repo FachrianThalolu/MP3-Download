@@ -11,7 +11,7 @@ $query = mysqli_query($koneksi,
 $rows = mysqli_num_rows($query);
 if($rows == 1){
 	$_SESSION['username'] = $username;
-	header("location:index.php");
+	header("location:index2.php");
 }
 else{
 	echo "Username atau Password salah <br>";

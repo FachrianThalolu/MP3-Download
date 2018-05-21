@@ -1,3 +1,4 @@
+
 h1 {
   font-family: helvetica;
   text-align: center;
@@ -13,7 +14,7 @@ tr{
 	background:#f2f2f2;
 }
 table{
-	margin-left:150px;
+	margin-left:75px;
 }
 td{
 	text-align: center;
@@ -23,27 +24,21 @@ td{
 th{
 	width: 100px;
 }
-.sort{
-	margin-left:1050px;
-}
-.sort2{
-	margin-left:850px;
-}
 .cari{
-	margin-top:50px;
-	margin-left:150px;
+	margin-top:10px;
+	margin-left:75px;
 	margin-bottom:10px;
 }
 .btn{
 	background:#f2f2f2;
-	width: 250px;
+	width: 225px;
 	height :25px;
-	margin-left:150px;
+	margin-left:75px;
 }
 .btn2{
 	background:#f2f2f2;
-	width: 250px;
+	width: 175px;
 	height :25px;
+	margin-top:10px;
 	margin-left:150px;
-	margin-bottom:10px;
 }
